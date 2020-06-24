@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-./src/auth0-variables.js
+/src/auth0-variables.js
 # testing
 /coverage
 
